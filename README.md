@@ -1,5 +1,5 @@
 # 📊 Proyecto Análisis Exploratorio de Datos (EDA)
-> **Especialización Python for Analytics · Caso de Estudio N°2**
+> **Especialización Python for Analytics**
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
@@ -61,11 +61,11 @@ streamlit run app.py
 | 🏠 **Home** | Introducción, objetivos y contexto de negocio |
 | 📂 **Carga del Dataset** | Carga y validación del archivo CSV |
 | 📊 **Análisis Exploratorio de Datos (EDA)** | Exploración de datos y visualizaciones | 
-| 📝 **Conclusiones** | insights clave y recomendaciones estratégicas |
+| 📝 **Conclusiones** | Insights claves y recomendaciones estratégicas |
 ---
 ## 🔗 Enlaces
 - Repositorio GitHub: https://github.com/soph-iaa/python-analytics-app 
-- Aplicación Streamlit Cloud:
+- Aplicación Streamlit Cloud: https://python-analytics.streamlit.app/
 ---
 ## 👩‍💻 Autora
 Gianella Sophia Alarcón Bardales  
