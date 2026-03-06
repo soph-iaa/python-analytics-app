@@ -34,7 +34,7 @@ El proyecto **no desarrolla modelos predictivos**, sino que aplica de forma inte
 ├── requirements.txt        # Dependencias del proyecto
 ├── TelcoCustomerChurn.csv  # Dataset
 ├── logo1.jpg
-└── images
+└── screenshots
       ├── home.png
       ├── dataset.png
       ├── eda.png
