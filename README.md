@@ -1,5 +1,6 @@
 # 📊 Proyecto Análisis Exploratorio de Datos (EDA)
 > **Especialización Python for Analytics · Caso de Estudio N°2**
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458)
@@ -7,7 +8,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Graphics-4C72B0)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
----
+
 ## 📌 Descripción
 Aplicación interactiva construida con **Streamlit** que realiza un **Análisis Exploratorio de Datos (EDA)** sobre el dataset `TelcoCustomerChurn.csv`, con el objetivo de identificar patrones asociados a la fuga de clientes en una empresa de telecomunicaciones.
 El proyecto **no desarrolla modelos predictivos**, sino que aplica de forma integrada:
@@ -63,7 +64,7 @@ streamlit run app.py
 | 📝 **Conclusiones** | insights clave y recomendaciones estratégicas |
 ---
 ## 🔗 Enlaces
-- Repositorio GitHub: https://github.com/soph-iaa/python-analytics-app
+- Repositorio GitHub: https://github.com/soph-iaa/python-analytics-app 
 - Aplicación Streamlit Cloud:
 ---
 ## 👩‍💻 Autora
